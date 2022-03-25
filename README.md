@@ -1,2 +1,3 @@
-# projet_1
- Mise en place d'un model de prédiction pour les roches et les mines sur un terrain
+# projet : Prédiction d'une mine ou d'un rocher pour la prédiction de l'echo par un SONAR
+
+## Contexte du projet 
